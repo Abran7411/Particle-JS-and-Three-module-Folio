@@ -1,0 +1,1 @@
+This Folder contains the navigation icons and tooltipster set to identify the card tag, scripted in the project.
